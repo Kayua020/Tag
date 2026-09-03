@@ -1,43 +1,26 @@
 <!DOCTYPE HTML>
 <html lang="pt-BR">
   <head>
-    <title>
-      
-    </title>
+    <title>NÃO SEI</title>
   </head>
   <body>
     <header>
-<h1>
-  
-</h1>
+<h1>Bom dia</h1>
 </header>
-<h2>
-  
-</h2>
-<p>
-  
-</p>
+<h2>Dia de Hoje</h2>
+<p>Hoje é quinta-feira</p>
 <div class="materiais">
-  <span>
-    
-  </span>
+  <span>O que fazer hoje:</span>
 
   <ul>
-    <li>
-      
-    </li></li>
-    <li>
-    </li>
+    <li>Acordar</li>
+    <li>Comer</li>
   </ul>
 
   <ol>
-    <li>
-      
-    </li>
-    <li>
-    </li>
-    <li>
-    </li>
+    <li>Levantar da cama</li>
+    <li>Tomar café</li>
+    <li>Tomar banho</li>
   </ol>
 </div>
 
@@ -47,9 +30,8 @@
   No Espaço.
 </figcaption>
 <a href="nãosei.html">
-  <button>
-    
-  </button>
+  <button>Ir para o Boa Noite</button>
   </a>
  </body>
 </html>
+
